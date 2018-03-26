@@ -1,0 +1,9 @@
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\bin\Web_Forms.dll.config
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\bin\Web_Forms.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\bin\Web_Forms.pdb
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\obj\Debug\Web_Forms.csprojResolveAssemblyReference.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\obj\Debug\Web_Forms.csproj.CoreCompileInputs.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\obj\Debug\Web_Forms.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Web_Forms\Web_Forms\obj\Debug\Web_Forms.pdb

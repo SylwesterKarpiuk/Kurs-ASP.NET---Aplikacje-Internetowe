@@ -1,0 +1,49 @@
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\ApplicationInsights.config
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\ASP.NET MVC pierwsze kroki.dll.config
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\ASP.NET MVC pierwsze kroki.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\ASP.NET MVC pierwsze kroki.pdb
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Antlr3.Runtime.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.DependencyCollector.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.Web.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.WindowsServer.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.ApplicationInsights.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.Web.Infrastructure.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Newtonsoft.Json.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Helpers.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Mvc.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Optimization.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Razor.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.WebPages.Deployment.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.WebPages.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.WebPages.Razor.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\WebGrease.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Helpers.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Mvc.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Optimization.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.Razor.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.WebPages.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.WebPages.Deployment.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\System.Web.WebPages.Razor.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Antlr3.Runtime.pdb
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Newtonsoft.Json.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.ApplicationInsights.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.DependencyCollector.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.WindowsServer.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\Microsoft.AI.Web.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\pl\System.Web.Helpers.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\pl\System.Web.Mvc.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\pl\System.Web.Optimization.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\pl\System.Web.Razor.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\pl\System.Web.WebPages.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\pl\System.Web.WebPages.Deployment.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\bin\pl\System.Web.WebPages.Razor.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\obj\Debug\ASP.NET MVC pierwsze kroki.csprojResolveAssemblyReference.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\obj\Debug\ASP.NET MVC pierwsze kroki.csproj.CoreCompileInputs.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\obj\Debug\ASP.NET MVC pierwsze kroki.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ASP.NET MVC pierwsze kroki\ASP.NET MVC pierwsze kroki\obj\Debug\ASP.NET MVC pierwsze kroki.pdb
