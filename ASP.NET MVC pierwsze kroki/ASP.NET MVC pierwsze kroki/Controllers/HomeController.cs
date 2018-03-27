@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ASP.NET_MVC_pierwsze_kroki.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,6 +11,13 @@ namespace ASP.NET_MVC_pierwsze_kroki.Controllers
     {
         public ActionResult Index()
         {
+            List<Album> albumy = new List<Album>
+            {
+                new Album {Artist = "U2", AlbumName = "The Best of"},
+                new Album {Artist = "Coldplay", AlbumName = "Mylo Xyloto"}
+            };
+            ViewBag.Albumy = albumy;
+
             return View();
         }
 
