@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Dane albumu</h2>
+
+<form action="/Home/ParameterBindingToClass" method="post">
+
+    <label for="albumTitle">Tytuł: </label>
+    <input type="text" name="AlbumTitle" id="albumTitle" />
+
+    <label for="artistName">Artysta: </label>
+    <input type="text" name="Artist.Name" id="artistName" />
+
+    <label for="price">Cena: </label>
+    <input type="text" name="Price" id="price" />
+
+    <input type="submit" value="Wyślij" />
+</form>
