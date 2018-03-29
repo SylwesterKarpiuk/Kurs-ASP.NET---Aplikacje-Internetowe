@@ -1,0 +1,42 @@
+﻿@model List<Razor.Models.Course>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta home="viewport" content="width=device-width"/>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @*Model.Message *@
+
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li>
+                    <img src="@item.ImageUrl" /><br />
+                    @item.Name - @item.Description
+                </li>
+            }
+        </ul>
+
+        @if (Model.Count() == 0)
+        {
+            <span>
+                Brak kursów!
+            </span>
+        }
+        else
+        {
+            var i = 12;
+            <span>
+                @i
+            </span>
+        }
+
+        <span @if (Model.Count==0){<text> style = "display: none" </text> }>Chwilowy brak kursów</span>
+    </div>
+</body>
+</html>
+
