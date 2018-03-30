@@ -24,5 +24,15 @@ namespace Razor.Controllers
 
             return View(courses);
         }
+
+        public ActionResult LayoutSample()
+        {
+            return View();
+        }
+
+        public ActionResult PartialViewSimple()
+        {
+            return View("PartialSimple");
+        }
     }
 }
