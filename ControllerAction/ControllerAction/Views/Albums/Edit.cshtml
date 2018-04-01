@@ -1,0 +1,23 @@
+﻿
+@model ControllerAction.Models.Album
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit album</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(a => a.AlbumTitle)
+    @Html.TextBoxFor(a => a.AlbumTitle)
+
+    @Html.LabelFor(a => a.Artist.Name)
+    @Html.TextBoxFor(a => a.Artist.Name)
+
+    @Html.LabelFor(a => a.Price)
+    @Html.TextBoxFor(a => a.Price)
+
+    <input type="submit" value="Wyślij" />
+}
+

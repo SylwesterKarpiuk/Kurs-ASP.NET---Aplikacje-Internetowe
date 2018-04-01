@@ -125,6 +125,8 @@
     <Content Include="Views\Home\LayoutSample.cshtml" />
     <Content Include="Views\Home\PartialSimple.cshtml" />
     <Content Include="Views\Shared\_PartialStat.cshtml" />
+    <Content Include="Views\Shared\_PartialWithModel.cshtml" />
+    <Content Include="Views\Shared\PartialTime.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

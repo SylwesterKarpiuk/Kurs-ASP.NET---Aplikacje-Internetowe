@@ -34,5 +34,22 @@ namespace Razor.Controllers
         {
             return View("PartialSimple");
         }
+        [ChildActionOnly]
+        public ActionResult GetTimePartial()
+        {
+            var time = DateTime.Now.ToLongTimeString();
+            return PartialView("PartialTime", time);
+        }
+
+        [ChildActionOnly]
+        public string GetTime()
+        {
+            return DateTime.Now.ToLongTimeString();
+        }
+
+        public ActionResult Helpers()
+        {
+            return View();
+        }
     }
 }
