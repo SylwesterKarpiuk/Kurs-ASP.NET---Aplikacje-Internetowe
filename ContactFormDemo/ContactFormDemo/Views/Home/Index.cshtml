@@ -1,0 +1,65 @@
+﻿@model ContactFormDemo.Models.Question
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+    <style>
+        .field-validation-error{
+            color: red;
+            font-weight: bold;
+        }
+        .input-validation-error{
+            background: pink;
+            border: 1px solid red;
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm("AddQuestion", "Home"))
+    {
+        @Html.EditorFor(m => m)
+
+        <input type="submit" value="Wyślij" />
+    }
+    <br /><br />
+    @using (Html.BeginForm("AddQuestion", "Home"))
+    {
+        <table>
+            <tr>
+                <td>Wprowadź treść pytania:</td>
+                <td>@Html.TextBoxFor(m => m.QuestionText)</td>
+                <td>@Html.ValidationMessageFor(m => m.QuestionText)</td>
+            </tr>
+            <tr>
+                <td>Podaj email:</td>
+                <td>@Html.TextBoxFor(m => m.Email)</td>
+                <td>@Html.ValidationMessageFor(m => m.Email)</td>
+            </tr>
+            <tr>
+                <td>Zaznacz, jeśli wolisz kontakt telefoniczny:</td>
+                <td>@Html.CheckBoxFor(m => m.PhonePreferred, new { @id = "phonePrefferedCheckbox" })</td>
+                <td></td>
+            </tr>
+            <tr id="phonerow">
+                <td>Numer telefonu:</td>
+                <td>@Html.TextBoxFor(m => m.PhoneNumber, new { data_val_requirediftrue_boolprop = "phonePrefferedCheckbox" })</td>
+                <td>@Html.ValidationMessageFor(m => m.PhoneNumber)</td>
+            </tr>
+        </table>
+        <div>
+            @Html.ValidationSummary()
+        </div>
+        <input type="submit" value="Wyślij" />
+    }
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.js"></script>
+</body>
+</html>
