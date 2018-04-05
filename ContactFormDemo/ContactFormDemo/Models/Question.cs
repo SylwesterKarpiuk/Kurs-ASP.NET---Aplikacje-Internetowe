@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ContactFormDemo.Validation;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -20,6 +21,8 @@ namespace ContactFormDemo.Models
         [Display(Name = "Preferowany kontakt telefoniczny:")]
         public bool PhonePreferred { get; set; }
         [Display(Name = "Nr telefonu:")]
+
+        [RequiredIfTrue(BooleanPropertyName ="PhonePreffered", ErrorMessage = "Skoro preferujesz kontakt telefoniczny, podaj numer telefonu")]
         [Phone]
         [RegularExpression(@"([\+}){0,1}([0-9]{2})?[\-\s]?[-]?([0-9]{3})?[\-\s]?[-]?([0-9]{3})?[\-\s]?[-]?([0-9]{3})", 
             ErrorMessage ="Numer musi być zapisany w formacie 123-123-123")]
