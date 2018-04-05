@@ -62,5 +62,13 @@
     <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
     <script src="~/Scripts/jquery-3.3.1.js"></script>
     <script src="~/Scripts/RequiredIfTrue.js"></script>
+
+    <script type="text/javascript">
+        $('#phonerow').toggle($($(
+            '#phonePrefferedCheckbox')).is(':checked'));
+        $('#phonePrefferedCheckbox').click(function () {
+            $('#phonerow').toggle(this.checked);
+        });
+    </script>
 </body>
 </html>
