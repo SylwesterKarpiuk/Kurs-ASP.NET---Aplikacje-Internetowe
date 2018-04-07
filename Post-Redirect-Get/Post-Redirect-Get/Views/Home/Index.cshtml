@@ -1,0 +1,43 @@
+﻿@model Post_Redirect_Get.Models.Counters
+
+{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm("PassTempData", "Home"))
+        {
+            <div>
+                Wpisz parametr do przekazania między żądaniami
+
+                <input type="text" name="paramtopass" />
+                <input value="Wyślij" type="submit" />
+           </div>
+           @using (Html.BeginForm("IncrementStatic", "Home"))
+           {
+               <div>
+                   Licznik kliknięć (zmienne statyczne)
+                   <input value="Inkrementuj!" type="submit"/>
+                   <div>@Model.StaticCounter</div>
+               </div>
+           }
+            @using (Html.BeginForm("IncrementalAplication", "Home"))
+            {
+                <div>
+                    Licznik kliknięć (zmienne Aplication)
+                    <input value="Inkrementuj" type="submit" />
+                    <div>@Model.AplicationCounter</div>
+                </div>
+            }
+        }
+    </div>
+</body>
+</html>
