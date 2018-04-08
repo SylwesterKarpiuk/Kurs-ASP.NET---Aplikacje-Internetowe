@@ -37,6 +37,22 @@
                     <div>@Model.AplicationCounter</div>
                 </div>
             }
+            @using (Html.BeginForm("IncrementSession", "Home"))
+            {
+                <div>
+                    Licznik klikniec (sesja)
+                    <input value="Inkrementuj!!!" type="submit"/>
+                    <div>@Model.SessionCounter</div>
+                </div>
+            }
+            @using (Html.BeginForm("IncrementCookies", "Home"))
+            {
+                <div>
+                    Licznik klikniec (cookie)
+                    <input value="Inkrementuj!!!" type="submit"/>
+                    <div>@Model.CookieCounter</div>
+                </div>
+            }
         }
     </div>
 </body>
