@@ -1,8 +1,10 @@
-﻿using Post_Redirect_Get.Models;
+﻿using DevTrends.MvcDonutCaching;
+using Post_Redirect_Get.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Caching;
 using System.Web.Mvc;
 
 namespace Post_Redirect_Get.Controllers
@@ -11,8 +13,16 @@ namespace Post_Redirect_Get.Controllers
     {
         private object staticCounterLock = new object();
 
+        [OutputCache(Duration = 5)]
+        [ChildActionOnly]
+        public string GetTime()
+        {
+            return DateTime.Now.ToLongTimeString();
+        }
+
         // GET: Home
-        public ActionResult Index()
+        //[DonutOutputCache(Duration = 5, VaryByParam ="id")]
+        public ActionResult Index(int id = 1)
         {
             var model = GetCounters();
             return View(model);
@@ -67,6 +77,14 @@ namespace Post_Redirect_Get.Controllers
             {
                 counters.CookieCounter = 0;
             }
+            if (HttpRuntime.Cache["counter"] != null)
+            {
+                counters.CacheCounter = (int)HttpRuntime.Cache["counter"];
+            }
+            else
+            {
+                counters.CacheCounter = 0;
+            }
             return counters;
         }
         private void SetCounters(Counters counter)
@@ -79,6 +97,10 @@ namespace Post_Redirect_Get.Controllers
             //cookie.Expires = DateTime.Now.AddDays(-1);
             cookie.Expires = DateTime.Now.AddDays(1);
             Response.SetCookie(cookie);
+
+            //HttpRuntime.Cache.Remove("counter");
+            HttpRuntime.Cache.Add("counter", counter.CacheCounter, null, DateTime.Now.AddSeconds(5), TimeSpan.Zero, CacheItemPriority.Default, null);
+            //HttpRuntime.Cache["counter"] = counter.CacheCounter;
         }
         [HttpPost]
         public ActionResult IncrementApplication()
@@ -112,5 +134,15 @@ namespace Post_Redirect_Get.Controllers
 
             return RedirectToAction("Index");
         }
+        [HttpPost]
+        public ActionResult IncrementCache()
+        {
+            var counters = GetCounters();
+            counters.CacheCounter++;
+            SetCounters(counters);
+
+            return RedirectToAction("Index");
+        }
+
     }
 }

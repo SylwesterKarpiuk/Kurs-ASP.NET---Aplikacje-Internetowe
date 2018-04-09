@@ -11,49 +11,59 @@
     <meta name="viewport" content="width=device-width" />
     <title>Index</title>
 </head>
+    <div>Aktualna godzina: @DateTime.Now.ToLongTimeString()</div>
+    @Html.Action("GetTime", true)
 <body>
-    <div> 
+    <div>
         @using (Html.BeginForm("PassTempData", "Home"))
-        {
-            <div>
-                Wpisz parametr do przekazania między żądaniami
+    {
+        <div>
+            Wpisz parametr do przekazania między żądaniami
 
-                <input type="text" name="paramtopass" />
-                <input value="Wyślij" type="submit" />
-           </div>
-           @using (Html.BeginForm("IncrementStatic", "Home"))
-           {
-               <div>
-                   Licznik kliknięć (zmienne statyczne)
-                   <input value="Inkrementuj!" type="submit"/>
-                   <div>@Model.StaticCounter</div>
-               </div>
-           }
-            @using (Html.BeginForm("IncrementalAplication", "Home"))
-            {
-                <div>
-                    Licznik kliknięć (zmienne Aplication)
-                    <input value="Inkrementuj" type="submit" />
-                    <div>@Model.AplicationCounter</div>
-                </div>
-            }
-            @using (Html.BeginForm("IncrementSession", "Home"))
-            {
-                <div>
-                    Licznik klikniec (sesja)
-                    <input value="Inkrementuj!!!" type="submit"/>
-                    <div>@Model.SessionCounter</div>
-                </div>
-            }
-            @using (Html.BeginForm("IncrementCookies", "Home"))
-            {
-                <div>
-                    Licznik klikniec (cookie)
-                    <input value="Inkrementuj!!!" type="submit"/>
-                    <div>@Model.CookieCounter</div>
-                </div>
-            }
-        }
+            <input type="text" name="paramtopass" />
+            <input value="Wyślij" type="submit" />
+        </div>
+        @using (Html.BeginForm("IncrementStatic", "Home"))
+    {
+        <div>
+            Licznik kliknięć (zmienne statyczne)
+            <input value="Inkrementuj!" type="submit" />
+            <div>@Model.StaticCounter</div>
+        </div>
+}
+        @using (Html.BeginForm("IncrementalAplication", "Home"))
+    {
+        <div>
+            Licznik kliknięć (zmienne Aplication)
+            <input value="Inkrementuj" type="submit" />
+            <div>@Model.AplicationCounter</div>
+        </div>
+}
+        @using (Html.BeginForm("IncrementSession", "Home"))
+    {
+        <div>
+            Licznik klikniec (sesja)
+            <input value="Inkrementuj!!!" type="submit" />
+            <div>@Model.SessionCounter</div>
+        </div>
+}
+        @using (Html.BeginForm("IncrementCookies", "Home"))
+    {
+        <div>
+            Licznik klikniec (cookie)
+            <input value="Inkrementuj!!!" type="submit" />
+            <div>@Model.CookieCounter</div>
+        </div>
+}
+        @using (Html.BeginForm("IncrementCache", "Home"))
+    {
+        <div>
+            Licznik klikniec (cache)
+            <input value="Inkrementuj!!!" type="submit" />
+            <div>@Model.CacheCounter</div>
+        </div>
+}
+}
     </div>
 </body>
 </html>
