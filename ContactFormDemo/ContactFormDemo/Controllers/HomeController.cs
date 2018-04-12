@@ -1,4 +1,5 @@
-﻿using ContactFormDemo.Models;
+﻿using ContactFormDemo.DAL;
+using ContactFormDemo.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,8 +28,19 @@ namespace ContactFormDemo.Controllers
             }
             else
             {
+                QuestionContext db = new QuestionContext();
+                db.Questions.Add(question);
+                db.SaveChanges();
+
                 return View("Index");
             }
+        }
+
+        public ActionResult ShowCustomerQuestions(int customerId)
+        {
+            QuestionContext db = new QuestionContext();
+            var customer = db.Customers.Find(customerId);
+            return View(customer);
         }
     }
 }

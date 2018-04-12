@@ -26,3 +26,7 @@ E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\ob
 E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\obj\Debug\ContactFormDemo.csproj.CoreCompileInputs.cache
 E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\obj\Debug\ContactFormDemo.dll
 E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\obj\Debug\ContactFormDemo.pdb
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\bin\EntityFramework.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\bin\EntityFramework.SqlServer.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\bin\EntityFramework.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\ContactFormDemo\ContactFormDemo\bin\EntityFramework.SqlServer.xml
