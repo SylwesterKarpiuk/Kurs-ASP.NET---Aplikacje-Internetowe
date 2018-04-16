@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Ajax.BeginForm("AjaxSendEmail", new AjaxOptions()
+{
+    HttpMethod = "Post",
+    OnSuccess = "Potwierdzenie"
+}))
+{
+    <form action="/Home/SendEmail" method="post">
+        <label for="Email">Email: </label>
+        <input type="text" name="Email" id="email" />
+
+        <label for="Temat">Temat: </label>
+        <input type="text" name="Temat" id="temat" />
+
+        <label for="Tresc">Treść: </label>
+        <input type="text" name="Tresc" id="tresc" />
+
+        <input type="submit" value="Wyślij" />
+    </form>
+}
+<div id="show"></div>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script>
+    function DisplayConfirmation(result) {
+        var confirmation = "Treść wysłanej wiadomości: " + result.Tresc;
+        $('#show').html(Potwierdzenie);
+    }
+
+</script>
