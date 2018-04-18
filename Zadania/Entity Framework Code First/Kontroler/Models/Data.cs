@@ -8,6 +8,8 @@ namespace Kontroler.Models
 {
     public class Data
     {
+        [ScaffoldColumn(false)]
+        public int DataId { get; set; }
         [Display(Name = "Adres email: ")]
         [EmailAddress]
         [Required(ErrorMessage ="Wprowadź adres email!!!")]

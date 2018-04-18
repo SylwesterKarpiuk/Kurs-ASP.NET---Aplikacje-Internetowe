@@ -1,4 +1,5 @@
-﻿using Kontroler.Models;
+﻿using Kontroler.Dal;
+using Kontroler.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,7 +32,14 @@ namespace Kontroler.Controllers
             {
                 return View("Index");
             }
-             return View("EmailConfirmation", DataDetails);
+            else
+            {
+                DataContext db = new DataContext();
+                db.Dataa.Add(DataDetails);
+                db.SaveChanges();
+                return View("EmailConfirmation", DataDetails);
+            }
+             
             
             
         }
