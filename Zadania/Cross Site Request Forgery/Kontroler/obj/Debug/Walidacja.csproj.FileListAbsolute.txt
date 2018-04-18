@@ -1,0 +1,60 @@
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\Kontroler.dll.config
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\Kontroler.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\Kontroler.pdb
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\Microsoft.Web.Infrastructure.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Helpers.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Mvc.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Razor.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Webpages.Deployment.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Webpages.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Webpages.Razor.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Razor.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Webpages.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Webpages.Deployment.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Webpages.Razor.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Helpers.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\System.Web.Mvc.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\pl\System.Web.Razor.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\pl\System.Web.Webpages.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\pl\System.Web.Webpages.Deployment.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\pl\System.Web.Webpages.Razor.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\pl\System.Web.Helpers.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\bin\pl\System.Web.Mvc.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\obj\Debug\Walidacja.csprojResolveAssemblyReference.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\obj\Debug\Walidacja.csproj.CoreCompileInputs.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\obj\Debug\Kontroler.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Walidacja\Kontroler\obj\Debug\Kontroler.pdb
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\Kontroler.dll.config
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\Kontroler.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\Kontroler.pdb
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\EntityFramework.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\EntityFramework.SqlServer.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\Microsoft.Web.Infrastructure.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Helpers.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Mvc.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Razor.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Webpages.Deployment.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Webpages.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Webpages.Razor.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\EntityFramework.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\EntityFramework.SqlServer.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Razor.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Webpages.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Webpages.Deployment.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Webpages.Razor.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Helpers.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\System.Web.Mvc.xml
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\pl\System.Web.Razor.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\pl\System.Web.Webpages.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\pl\System.Web.Webpages.Deployment.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\pl\System.Web.Webpages.Razor.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\pl\System.Web.Helpers.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\bin\pl\System.Web.Mvc.resources.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\obj\Debug\Walidacja.csprojResolveAssemblyReference.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\obj\Debug\Walidacja.csproj.CoreCompileInputs.cache
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\obj\Debug\Kontroler.dll
+E:\Kursy\Kurs-ASP.NET---Aplikacje-Internetowe\Zadania\Entity Framework Code First\Kontroler\obj\Debug\Kontroler.pdb

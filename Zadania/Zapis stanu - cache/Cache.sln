@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache", "Kontroler\Cache.csproj", "{1EDDE398-510B-454B-A945-D06C7D4D275E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDDE398-510B-454B-A945-D06C7D4D275E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDDE398-510B-454B-A945-D06C7D4D275E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDDE398-510B-454B-A945-D06C7D4D275E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDDE398-510B-454B-A945-D06C7D4D275E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46EB183D-F5BB-49A9-9560-914A7A8D9009}
+	EndGlobalSection
+EndGlobal
